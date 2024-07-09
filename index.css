@@ -1,0 +1,81 @@
+.header{
+    max-width: 1440px;
+    margin: auto;
+    /* margin-left: 30px; */
+}
+
+.hero{
+    background:url('./image/Hero-bg.png');
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 25px;
+}
+
+
+
+.hero_title{
+    position: static;
+    width: 998px;
+    height: 136px;
+    display: flex;
+    text-align: center;
+    margin: auto;
+    font-size: 28px;
+} 
+
+.hero_pra{
+    width: 900px;
+    font-size: 19px;
+    display: flex;
+    text-align: center;
+}
+.contact-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    
+}
+
+
+.body{
+    border:solid red;
+    max-width: 1140px;
+    margin: auto;
+    padding: 80px 97px 80px 97px;
+}
+a{
+    text-decoration: none;
+}
+.web_title{
+    border: solid green;
+    max-width: 852px;
+    text-align: center;
+    margin: auto;
+
+    margin-bottom: 100px;
+}
+.web_title,h1{
+    font-size: 32px;
+}
+.web_title,p{
+    font-size: 16px;
+}
+
+.layer1{
+    max-width: 850px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.layer1_content{
+    max-width: 477px;
+}
+
