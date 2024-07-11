@@ -126,3 +126,8 @@ p{
     border-radius: 16px;
     /* background-size: 1140px full; */
 }
+
+.icon{
+    width: 36px;
+    height: 36px;
+}
